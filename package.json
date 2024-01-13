@@ -11,6 +11,12 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshitg123/Preety-Xquery"
+  },
+  "baseContentUrl": "https://none",
+  "baseImagesUrl": "https://github.com/harshitg123/Preety-Xquery/tree/main/media",
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
