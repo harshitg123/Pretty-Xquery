@@ -1,10 +1,12 @@
 {
   "name": "xquery-formatter",
-  "displayName": "xquery formatter",
-  "description": "This extension will format the xquery code",
+  "displayName": "Pretty XQuery",
+  "description": "This extension will format the XQuery and XML code.",
   "version": "0.0.1",
+  "icon": "images/Pretty-Xquery.png",
+  "publisher": "Harshit Gupta",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.71.0"
   },
   "categories": [
     "Other"
@@ -44,7 +46,7 @@
   "devDependencies": {
     "@types/mocha": "^10.0.6",
     "@types/node": "18.x",
-    "@types/vscode": "^1.85.0",
+    "@types/vscode": "^1.71.0",
     "@vscode/test-cli": "^0.0.4",
     "@vscode/test-electron": "^2.3.8",
     "eslint": "^8.56.0",
