@@ -3,7 +3,7 @@
   "displayName": "Pretty XQuery",
   "description": "This extension will format the XQuery and XML code.",
   "version": "0.0.1",
-  "icon": "images/Pretty-Xquery.png",
+  "icon": "media/Pretty-Xquery.png",
   "publisher": "Harshit Gupta",
   "engines": {
     "vscode": "^1.71.0"
@@ -36,7 +36,17 @@
         "command": "xquery-formatter.formatXquery",
         "title": "Prettify XQuery"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Your Extension Configuration",
+      "properties": {
+        "xquery-formatter.enableFeature": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable or disable a specific feature."
+        }
+      }
+    }
   },
   "scripts": {
     "lint": "eslint .",
