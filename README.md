@@ -39,9 +39,9 @@ This extension contributes the following settings:
 
 ## Release Notes
 
-The initial release of Pretty Xquery
+The alpha release of Pretty Xquery
 
-### 0.0.1
+### v0.0.1-alpha
 
 ---
 
