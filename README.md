@@ -1,4 +1,4 @@
-# Preety Xquery
+# Pretty Xquery
 
 <img align="left" width="100" height="100" src="media/Pretty-Xquery.png">
 
@@ -12,6 +12,8 @@
 ## Feature
 
 This extension provides the basic formatting of the Xquery and XML code.
+
+1. If you enabled the `format on save` setting in VS code extension will Prettify your code every time you save.
 
 ## Requirements
 
@@ -30,6 +32,10 @@ There is not any specific requirement to run this extension, You'll just need to
 This extension contributes the following settings:
 
 * `query-formatter.enableFeature`: Enable/disable this extension.
+
+## Known Issues
+
+* Extension does not format code if `format on save` is enabled when installed from vsix.
 
 ## Release Notes
 
