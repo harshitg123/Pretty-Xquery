@@ -2,6 +2,8 @@
 
 Preety Xquery is the VS Code extension to format or prettify the XQuery and XML code.
 
+![Watch the video](media/Pretty-Xquery.png)
+
 ## Feature
 
 This extension provides the basic formatting of the Xquery and XML code.
@@ -16,7 +18,7 @@ There is not any specific requirement to run this extension, You'll just need to
 
    That's it. All set.
 
-   [![Watch the video](media/Pretty-Xquery.png)](media/languageMode.mov)
+   [![Watch the video](media/video-thumbnil.png)](media/languageMode.mov)
    
 ## Extension Settings
 
