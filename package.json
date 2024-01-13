@@ -34,7 +34,7 @@
     "commands": [
       {
         "command": "xquery-formatter.formatXquery",
-        "title": "Format Xquery"
+        "title": "Prettify XQuery"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "xml-formatter": "^3.6.0",
-    "xmldom": "^0.6.0"
+    "vsce": "^2.15.0",
+    "xml-formatter": "^3.6.0"
   }
 }
