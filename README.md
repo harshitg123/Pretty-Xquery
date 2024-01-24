@@ -35,7 +35,7 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-* Extension does not format code if `format on save` is enabled when installed from vsix.
+* If there are multiple parent nodes it gives error.
 
 ## Release Notes
 
