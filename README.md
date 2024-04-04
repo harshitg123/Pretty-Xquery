@@ -1,4 +1,4 @@
-# Pretty Xquery
+# Pretty Xquery [Not Maintained]
 
 <img align="left" width="100" height="100" src="media/Pretty-Xquery.png">
 
